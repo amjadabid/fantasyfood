@@ -87,7 +87,8 @@ footer {
     font-family: 'Lobster', cursive; /* Stylish font */
     font-size: 36px;
     font-weight: bold;
-    color: #007bff; /* Bright Blue Color */
+    color: #ff0000; /* Bright Red Color */
+
     text-shadow: 4px 4px 15px rgba(0, 123, 255, 0.8); /* Blue glowing effect */
     position: absolute;
     top: 50%;
@@ -115,7 +116,7 @@ footer {
 .profile-container {
     position: fixed; /* Keeps it in place */
     top: 20px; /* Distance from top */
-    right: 20px; /* Distance from right */
+    left: 20px; /* Distance from left */
 }
 
 .profile-picture {
